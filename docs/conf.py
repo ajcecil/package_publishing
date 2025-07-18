@@ -1,14 +1,10 @@
-# docs/conf.py
-
 import os
 import sys
 sys.path.insert(0, os.path.abspath(".."))  # so Sphinx can find your package
 
-
 project = "GLSI Tools"
 author = "GLSI"
 release = "0.0.0"
-
 
 # General configuration
 extensions = [
@@ -34,3 +30,8 @@ myst_enable_extensions = [
 html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 html_logo = "_static/GLSI_logo.png"
+
+html_theme_options = {
+    "logo_only": False,
+    "display_version": True,
+}
