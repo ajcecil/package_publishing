@@ -6,8 +6,13 @@ Documentation of all tools published by GLSI
 
 ## Mean Normalized Usage (MNU)
 
-[![Mean Normalzed Usage Documentation](images/GLSI_Logo_blue.png)](https://meannormalizedusage.readthedocs.io/en/latest/index.html#)
 
+```{image} images/GLSI_Logo_blue.png
+:alt: Mean Normalized Usage Documentation
+:width: 250px
+:align: center
+:target: https://meannormalizedusage.readthedocs.io/en/latest/index.html#
+```
 
 # Python
 
