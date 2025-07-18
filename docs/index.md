@@ -9,7 +9,7 @@ Documentation of all tools published by GLSI
 
 ```{image} images/GLSI_Logo_blue.png
 :alt: Mean Normalized Usage Documentation
-:width: 250px
+:width: 200px
 :align: center
 :target: https://meannormalizedusage.readthedocs.io/en/latest/index.html#
 ```
