@@ -1,0 +1,17 @@
+# .readthedocs.yml
+version: 2
+
+build:
+  os: ubuntu-22.04  # Stable, tested OS for RTD builds (24.04 is fine too)
+  tools:
+    python: "3.10"  # Or "3.11" — avoid "3.13" since it's still pre-release
+
+python:
+  install:
+    - requirements: docs/requirements.txt
+
+sphinx:
+  configuration: docs/conf.py
+
+        
+
