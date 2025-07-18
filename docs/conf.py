@@ -24,6 +24,10 @@ source_suffix = [".rst", ".md"]
 # Use 'index.md' as the root document
 master_doc = "index"
 
+myst_enable_extensions = [
+    "colon_fence",  # allows ::: and ```{ } blocks
+]
+
 # HTML output options
 html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
