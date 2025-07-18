@@ -1,32 +1,18 @@
-# Page title
+# Test GLSI Tools
 
-Map Documentation
+Documentation of all tools published by GLSI
 
-## Embedded Scripting
-### Python Script
-``` python
-  print("Hello World!")
-```
-### R Script
-``` R
-  print("Hello World!")
-```
-### Rust Script
-``` rust
-  fn main() {
-    println!("Hello World!");
-  }
-```
-### Bash Script
-``` bash
-  echo 'Hello World!'
-```
+# R
 
-# New section
-This to test the side bar
+## Mean Normalized Usage (MNU)
+
+[![Mean Normalzed Usage Documentation](docs\images\GLSI_Logo_blue.png)](https://meannormalizedusage.readthedocs.io/en/latest/index.html#)
+
+
+# Python
+
 
 ## section a
-testing section a
 
 ## section b
-testing section b
+

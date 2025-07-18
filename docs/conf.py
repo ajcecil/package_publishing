@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath(".."))  # so Sphinx can find your package
 
-project = "Project Title"
-author = "Author"
-release = "0.1.0"
+project = "GLSI Tools"
+author = "GLSI"
+release = "0.0.0"
 
 # General configuration
 extensions = [
