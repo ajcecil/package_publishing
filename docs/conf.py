@@ -4,9 +4,11 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath(".."))  # so Sphinx can find your package
 
+html_logo = "_static/GLSI_logo.png"
 project = "GLSI Tools"
 author = "GLSI"
 release = "0.0.0"
+
 
 # General configuration
 extensions = [
