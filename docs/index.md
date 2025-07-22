@@ -23,7 +23,7 @@ Package established for...
 :alt: Mean Normalized Usage Documentation
 :width: 200px
 :align: center
-:target: www.google.com
+:target: https://www.google.com
 ```
 
 
@@ -36,7 +36,7 @@ Package established for...
 :alt: Mean Normalized Usage Documentation
 :width: 200px
 :align: center
-:target: www.google.com
+:target: https://www.google.com
 ```
 
 ## section b
@@ -46,5 +46,5 @@ Package established for...
 :alt: Mean Normalized Usage Documentation
 :width: 200px
 :align: center
-:target: www.google.com
+:target: https://www.google.com
 ```
