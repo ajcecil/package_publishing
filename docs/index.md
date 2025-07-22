@@ -16,6 +16,17 @@ Documentation of all tools published by GLSI
 
 Package established for...
 
+
+## section b
+
+```{image} images/GLSI_Logo_dk_green_r.png
+:alt: Mean Normalized Usage Documentation
+:width: 200px
+:align: center
+:target: www.google.com
+```
+
+
 # Python
 
 
@@ -29,4 +40,11 @@ Package established for...
 ```
 
 ## section b
-testing section b
+
+
+```{image} images/GLSI_Logo_dk_green_python.png
+:alt: Mean Normalized Usage Documentation
+:width: 200px
+:align: center
+:target: www.google.com
+```
