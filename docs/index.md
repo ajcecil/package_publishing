@@ -7,7 +7,7 @@ Documentation of all tools published by GLSI
 ## Mean Normalized Usage (MNU)
 
 
-```{image} images/GLSI_Logo_blue.png
+```{image} images/GLSI_Logo_blue_r.png
 :alt: Mean Normalized Usage Documentation
 :width: 200px
 :align: center
