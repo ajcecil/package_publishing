@@ -20,7 +20,13 @@ Package established for...
 
 
 ## section a
-testing section a
+
+```{image} images/GLSI_Logo_blue_python.png
+:alt: Mean Normalized Usage Documentation
+:width: 200px
+:align: center
+:target: www.google.com
+```
 
 ## section b
 testing section b
