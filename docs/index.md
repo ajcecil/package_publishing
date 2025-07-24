@@ -1,6 +1,11 @@
-# Test GLSI Tools
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-Documentation of all tools published by GLSI
+  <h1 style="margin: 0;">Test GLSI Tools</h1>
+  <img src="static/GLSI_Logo.png" alt="GLSI Logo" width="200">
+  
+</div>
+
+<p>Documentation of all tools published by GLSI</p>
 
 # R
 
