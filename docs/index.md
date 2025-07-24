@@ -1,6 +1,6 @@
 ```{image} _static/GLSI_Logo_w_text.png
 :alt: Mean Normalized Usage Documentation
-:height: 200px
+:height: 150px
 :align: center
 :target: https://www.agron.iastate.edu/glsi/
 ```
@@ -51,7 +51,7 @@ Package established for...
 
 ```{image} images/GLSI_Logo_dk_green_python.png
 :alt: Mean Normalized Usage Documentation
-:width: 150px
+:width: 200px
 :align: center
 :target: https://www.google.com
 ```
