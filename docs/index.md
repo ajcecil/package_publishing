@@ -1,6 +1,6 @@
 ```{image} _static/GLSI_Logo_w_text.png
 :alt: Mean Normalized Usage Documentation
-:height: 150px
+:height: 200px
 :align: center
 :target: https://www.agron.iastate.edu/glsi/
 ```
