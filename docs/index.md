@@ -1,11 +1,13 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+```{image} _static/GLSI_Logo_r.png
+:alt: Mean Normalized Usage Documentation
+:width: 200px
+:align: right
+:target: https://www.agron.iastate.edu/glsi/
+```
 
-  <h1 style="margin: 0;">Test GLSI Tools</h1>
-  <img src="static/GLSI_Logo.png" alt="GLSI Logo" width="200">
-  
-</div>
+# Test GLSI Tools
 
-<p>Documentation of all tools published by GLSI</p>
+Documentation of all tools published by GLSI
 
 # R
 
