@@ -16,7 +16,7 @@ Documentation of all tools published by GLSI
 
 ```{image} images/GLSI_Logo_blue_r.png
 :alt: Mean Normalized Usage Documentation
-:width: 200px
+:width: 150px
 :align: center
 :target: https://meannormalizedusage.readthedocs.io/en/latest/index.html#
 ```
@@ -28,7 +28,7 @@ Package established for...
 
 ```{image} images/GLSI_Logo_dk_green_r.png
 :alt: Mean Normalized Usage Documentation
-:width: 200px
+:width: 150px
 :align: center
 :target: https://www.google.com
 ```
@@ -41,7 +41,7 @@ Package established for...
 
 ```{image} images/GLSI_Logo_blue_python.png
 :alt: Mean Normalized Usage Documentation
-:width: 200px
+:width: 150px
 :align: center
 :target: https://www.google.com
 ```
@@ -51,7 +51,7 @@ Package established for...
 
 ```{image} images/GLSI_Logo_dk_green_python.png
 :alt: Mean Normalized Usage Documentation
-:width: 200px
+:width: 150px
 :align: center
 :target: https://www.google.com
 ```
