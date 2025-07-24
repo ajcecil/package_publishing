@@ -51,7 +51,7 @@ Package established for...
 
 ```{image} images/GLSI_Logo_dk_green_python.png
 :alt: Mean Normalized Usage Documentation
-:width: 200px
+:width: 150px
 :align: center
 :target: https://www.google.com
 ```
