@@ -45,12 +45,12 @@ Package established for...
 :align: center
 :target: https://pypi.org/project/tk-flow/
 ```
-    ### Install
-    ``` bash
+### Install
+``` bash
 
-        pip install tk-flow
+pip install tk-flow
 
-    ```
+```
 
 ## section b
 
