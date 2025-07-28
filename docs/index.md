@@ -37,13 +37,19 @@ Package established for...
 # Python
 
 
-## section a
+## tk-flow
 
 ```{image} images/GLSI_Logo_blue_python.png
-:alt: Mean Normalized Usage Documentation
+:alt: tk-flow
 :width: 150px
 :align: center
-:target: https://www.google.com
+:target: https://pypi.org/project/tk-flow/
+```
+### Install
+``` bash
+
+    pip install tk-flow
+
 ```
 
 ## section b
